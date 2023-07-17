@@ -16,7 +16,7 @@
         <component :is="tabs[activeTab].component"></component>
       </div>
     </div>
-
+    <All />
 
     <div class="bottom-navigation">
       <router-link to="/" exact class="nav-item" active-class="active">
