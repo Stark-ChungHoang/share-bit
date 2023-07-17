@@ -3,7 +3,10 @@ import Tabview from '../components/Tab.vue'
 </script>
 
 <template>
-  <main>
-    <Tabview />
+  <main >
+     <Tabview /> 
   </main>
 </template>
+<style>
+
+</style>
