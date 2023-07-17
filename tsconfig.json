@@ -1,0 +1,17 @@
+{
+  "files": [],
+  "references": [
+    {
+      "moduleResolution":"node",
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "moduleResolution":"node",
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "moduleResolution":"node",
+      "path": "./tsconfig.vitest.json"
+    }
+  ]
+}
